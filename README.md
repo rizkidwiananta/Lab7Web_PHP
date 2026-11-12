@@ -30,7 +30,6 @@
 ## 4. Struktur File & Direktori
 Berikut adalah pemetaan struktur direktori proyek (Tree Diagram) beserta keterangannya:
 
-```text
 Lab7Web_PHP/
 │
 ├── index.php               # Latihan 1: Menjalankan PHP
@@ -41,7 +40,6 @@ Lab7Web_PHP/
 ├── latihan6.php            # Latihan 6: Memproses Form dengan POST
 ├── latihan7.php            # Latihan 7: Pengolahan Data Sederhana
 ├── mini_project.php        # Mini Project: Formulir Validasi Data Mahasiswa
-├── README.md               # Dokumentasi Proyek (File ini)
 │
 ├── Eksperimen Mandiri/     # Folder tugas eksperimen mandiri
 │   ├── eksperimen1.php     # Rata-rata nilai
@@ -50,16 +48,19 @@ Lab7Web_PHP/
 │   ├── eksperimen4.php     # Validasi NIM (Angka & Panjang)
 │   └── eksperimen5.php     # Tombol Reset
 │
-└── img/                    # Penyimpanan gambar screenshot
-    ├── ss_latihan1.png
-    ├── ss_latihan2.png
-    ├── ss_latihan3.png
-    ├── ss_latihan4.png
-    ├── ss_latihan5.png
-    ├── ss_latihan6.png
-    ├── ss_latihan7.png
-    ├── ss_mini_valid.png
-    └── ss_mini_error.png
+├── img/                    # Penyimpanan gambar screenshot
+│   ├── ss_latihan1.png
+│   ├── ss_latihan2.png
+│   ├── ss_latihan3.png
+│   ├── ss_latihan4.png
+│   ├── ss_latihan5.png
+│   ├── ss_latihan6.png
+│   ├── ss_latihan7.png
+│   ├── ss_mini_valid.png
+│   └── ss_mini_error.png
+│
+└── README.md               # Dokumentasi Proyek (File ini)
+
 
 ## 5. Ringkasan Hasil
 Latihan Wajib:
