@@ -123,18 +123,25 @@ Hasil: Sistem mendeteksi dan menampilkan pesan "Nama wajib diisi." (Membuktikan 
 ## 7. Dokumentasi Output (Screenshot)
 Berikut adalah bukti tangkapan layar (screenshot) dari setiap latihan yang telah dijalankan melalui server lokal (localhost).
 
+1. Latihan 1 - Menjalankan PHP
 ![Latihan 1 - Menjalankan PHP](img/ss_latihan1.png)
 
+2. Latihan 2 - Variabel, Operator, dan Percabangan
 ![Latihan 2 - Variabel, Operator, dan Percabangan](img/ss_latihan2.png)
 
+3. Latihan 3 - Perulangan dan Array
 ![Latihan 3 - Perulangan dan Array](img/ss_latihan3.png)
 
+4. Latihan 4 - Membuat Function
 ![Latihan 4 - Membuat Function](img/ss_latihan4.png)
 
+5. Latihan 5 - Memproses Form dengan GET
 ![Latihan 5 - Memproses Form dengan GET](img/ss_latihan5.png)
 
+6. Latihan 6 - Memproses Form dengan POST
 ![Latihan 6 - Memproses Form dengan POST](img/ss_latihan6.png)
 
+7. Latihan 7 - Pengolahan Data Sederhana
 ![Latihan 7 - Pengolahan Data Sederhana](img/ss_latihan7.png)
 
 Mini Project - Formulir Data Mahasiswa
